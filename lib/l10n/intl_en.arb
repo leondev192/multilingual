@@ -1,0 +1,38 @@
+{
+  "title": "Home Page",
+  "greeting": "Hello, welcome to our app!",
+  "change_language": "Change Language",
+  "login": "Login",
+  "home": "Home",
+  "account": "Account",
+  "logout": "Logout",
+  "user_token": "User Token",
+  "welcome_message": "Hello, welcome to our app!",
+  "booking": "My Bookings",
+  "notifications": "Notifications",
+  "chatbot": "AI Assistant",
+  "welcome_Register": "Welcome to MOKA Hotel, please register to use the services.",
+  "loginWithGoogle": "Login with Google",
+  "termsAgreement_Register": "I agree to The Terms of Service and Privacy Policy.",
+  "welcome_Login": "Welcome to MOKA Hotel, please log in to use the services.",
+  "forgotPassword_Login": "Forgot Password",
+  "dontHaveAccount_Login": "Don't have an account?",
+  "doYouHaveAccount_Register": "Do you have an account?",
+  "name": "Name",
+  "emailOrPhoneNumber": "Email/Phone Number",
+  "password": "Password",
+  "or": "or",
+  "field_cannot_be_empty": "Cannot be empty",
+  "register": "Register",
+  "failed": "Faild",
+  "confirm_password": "Re-enter password",
+  "username": "Username",
+  "password_mismatch_error": "Password mismatch error12",
+
+
+
+
+  "@@locale": "en",
+  "hello": "Hello",
+  "welcome": "Welcome to Flutter!"
+}
